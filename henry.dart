@@ -13,6 +13,5 @@ List<int> rearrange(int n) {
 }
 
 List<int> bubbleSort(List<int> l) {
-  l.sort();
   return l;
 }
